@@ -1,0 +1,18 @@
+###Abaixo está os métodos para extrair as imagens que organizei
+
+HARALICK => haralick_features(image)
+LBP      => lbp_features(image, mask, P=[8,16,24], R=[1,2,3])
+LPQ      => lpq_features(image,winSize=3,freqestim=1,mode='nh')
+
+mask: É uma matriz de região de interesse, para deixar global é preciso criar uma matriz de ums (1) do tamanho da imagem 
+
+FOS      => fos(image, mask)
+FPS      => fps(image, mask)
+GLCM     => glcm_features(image, ignore_zeros=True)
+GLDS     => glds(image, mask, dx, dy, Ng)
+LTE      => lte_measures(image, mask, l=7)
+NGTDM    => ngtdm(image, mask, d, Ng)
+SFM      => sfm_features(image, mask, Lr=4, Lc=4):
+
+HUMoment => hu_moments(image)
+Zernike  => zernikes_moments(image, radius=9):
