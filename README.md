@@ -1,2 +1,2 @@
 # SCC5836-Visualiza-o-Computacional
-Entregas e Trabalho final da Disciplina de Doutorado
+Repositório Criado para Disciplina - SCC5836 Visualização Computacional - ICMC USP
