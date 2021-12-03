@@ -1,0 +1,217 @@
+Algortimo,Acuracia,distancia,feature,proj
+Nearest Neighbors,81.83906882591094,euclidean,featureFos,tsne
+SVM Linear,50.0,euclidean,featureFos,tsne
+SVM Polinomial grau 3,50.0,euclidean,featureFos,tsne
+Decision Tree (gini),81.4574898785425,euclidean,featureFos,tsne
+Random Forest,68.0921052631579,euclidean,featureFos,tsne
+Neural Net,50.0,euclidean,featureFos,tsne
+AdaBoost,61.556342780026995,euclidean,featureFos,tsne
+Naive Bayes,51.819163292847506,euclidean,featureFos,tsne
+Nearest Neighbors,90.0495951417004,euclidean,featureGlcm,tsne
+SVM Linear,74.15519568151147,euclidean,featureGlcm,tsne
+SVM Polinomial grau 3,80.51686909581646,euclidean,featureGlcm,tsne
+Decision Tree (gini),85.33906882591094,euclidean,featureGlcm,tsne
+Random Forest,89.03981106612684,euclidean,featureGlcm,tsne
+Neural Net,75.02361673414305,euclidean,featureGlcm,tsne
+AdaBoost,88.1221322537112,euclidean,featureGlcm,tsne
+Naive Bayes,80.62854251012146,euclidean,featureGlcm,tsne
+Nearest Neighbors,78.48751686909581,euclidean,featureLpq,tsne
+SVM Linear,76.33265856950068,euclidean,featureLpq,tsne
+SVM Polinomial grau 3,78.70107962213226,euclidean,featureLpq,tsne
+Decision Tree (gini),77.6255060728745,euclidean,featureLpq,tsne
+Random Forest,77.43151147098516,euclidean,featureLpq,tsne
+Neural Net,75.60222672064778,euclidean,featureLpq,tsne
+AdaBoost,77.11572199730095,euclidean,featureLpq,tsne
+Naive Bayes,76.70445344129554,euclidean,featureLpq,tsne
+Nearest Neighbors,82.24358974358974,cosine,featureFos,tsne
+SVM Linear,50.0,cosine,featureFos,tsne
+SVM Polinomial grau 3,50.85526315789474,cosine,featureFos,tsne
+Decision Tree (gini),79.79959514170041,cosine,featureFos,tsne
+Random Forest,77.88495276653171,cosine,featureFos,tsne
+Neural Net,50.0,cosine,featureFos,tsne
+AdaBoost,69.54959514170041,cosine,featureFos,tsne
+Naive Bayes,54.7338056680162,cosine,featureFos,tsne
+Nearest Neighbors,89.28981106612687,cosine,featureGlcm,tsne
+SVM Linear,69.96761133603238,cosine,featureGlcm,tsne
+SVM Polinomial grau 3,50.0,cosine,featureGlcm,tsne
+Decision Tree (gini),86.19770580296897,cosine,featureGlcm,tsne
+Random Forest,85.73717948717949,cosine,featureGlcm,tsne
+Neural Net,69.39507422402158,cosine,featureGlcm,tsne
+AdaBoost,76.3491902834008,cosine,featureGlcm,tsne
+Naive Bayes,68.21423751686909,cosine,featureGlcm,tsne
+Nearest Neighbors,79.57321187584346,cosine,featureLpq,tsne
+SVM Linear,55.52024291497977,cosine,featureLpq,tsne
+SVM Polinomial grau 3,61.273279352226716,cosine,featureLpq,tsne
+Decision Tree (gini),77.50742240215925,cosine,featureLpq,tsne
+Random Forest,76.04993252361673,cosine,featureLpq,tsne
+Neural Net,65.14844804318489,cosine,featureLpq,tsne
+AdaBoost,71.9412955465587,cosine,featureLpq,tsne
+Naive Bayes,65.81646423751687,cosine,featureLpq,tsne
+Nearest Neighbors,82.97402159244264,manhattan,featureFos,tsne
+SVM Linear,50.0,manhattan,featureFos,tsne
+SVM Polinomial grau 3,57.43421052631579,manhattan,featureFos,tsne
+Decision Tree (gini),79.5300269905533,manhattan,featureFos,tsne
+Random Forest,81.7995951417004,manhattan,featureFos,tsne
+Neural Net,50.0,manhattan,featureFos,tsne
+AdaBoost,72.52024291497975,manhattan,featureFos,tsne
+Naive Bayes,51.08569500674764,manhattan,featureFos,tsne
+Nearest Neighbors,89.53643724696356,manhattan,featureGlcm,tsne
+SVM Linear,85.78002699055331,manhattan,featureGlcm,tsne
+SVM Polinomial grau 3,81.03981106612686,manhattan,featureGlcm,tsne
+Decision Tree (gini),85.3029689608637,manhattan,featureGlcm,tsne
+Random Forest,88.48380566801619,manhattan,featureGlcm,tsne
+Neural Net,85.56950067476382,manhattan,featureGlcm,tsne
+AdaBoost,85.54655870445345,manhattan,featureGlcm,tsne
+Naive Bayes,84.53340080971661,manhattan,featureGlcm,tsne
+Nearest Neighbors,81.91835357624832,manhattan,featureLpq,tsne
+SVM Linear,50.0,manhattan,featureLpq,tsne
+SVM Polinomial grau 3,62.36538461538462,manhattan,featureLpq,tsne
+Decision Tree (gini),79.14844804318489,manhattan,featureLpq,tsne
+Random Forest,73.71120107962213,manhattan,featureLpq,tsne
+Neural Net,55.075910931174086,manhattan,featureLpq,tsne
+AdaBoost,69.06309041835357,manhattan,featureLpq,tsne
+Naive Bayes,59.865384615384606,manhattan,featureLpq,tsne
+Nearest Neighbors,70.34581646423752,euclidean,featureFos,pca
+SVM Linear,55.33232118758434,euclidean,featureFos,pca
+SVM Polinomial grau 3,55.18758434547909,euclidean,featureFos,pca
+Decision Tree (gini),66.71794871794873,euclidean,featureFos,pca
+Random Forest,73.98380566801619,euclidean,featureFos,pca
+Neural Net,56.727058029689616,euclidean,featureFos,pca
+AdaBoost,72.2834008097166,euclidean,featureFos,pca
+Naive Bayes,60.200742240215924,euclidean,featureFos,pca
+Nearest Neighbors,83.84244264507423,euclidean,featureGlcm,pca
+SVM Linear,86.64844804318489,euclidean,featureGlcm,pca
+SVM Polinomial grau 3,87.42813765182186,euclidean,featureGlcm,pca
+Decision Tree (gini),80.3262483130904,euclidean,featureGlcm,pca
+Random Forest,85.93792172739543,euclidean,featureGlcm,pca
+Neural Net,85.43792172739542,euclidean,featureGlcm,pca
+AdaBoost,84.60256410256409,euclidean,featureGlcm,pca
+Naive Bayes,86.17476383265858,euclidean,featureGlcm,pca
+Nearest Neighbors,72.48414304993253,euclidean,featureLpq,pca
+SVM Linear,66.84244264507421,euclidean,featureLpq,pca
+SVM Polinomial grau 3,63.84244264507423,euclidean,featureLpq,pca
+Decision Tree (gini),67.86909581646424,euclidean,featureLpq,pca
+Random Forest,75.07287449392713,euclidean,featureLpq,pca
+Neural Net,67.57928475033738,euclidean,featureLpq,pca
+AdaBoost,69.4412955465587,euclidean,featureLpq,pca
+Naive Bayes,67.3687584345479,euclidean,featureLpq,pca
+Nearest Neighbors,84.53981106612686,cosine,featureFos,pca
+SVM Linear,84.27665317139002,cosine,featureFos,pca
+SVM Polinomial grau 3,83.4608636977058,cosine,featureFos,pca
+Decision Tree (gini),76.45107962213224,cosine,featureFos,pca
+Random Forest,85.29318488529015,cosine,featureFos,pca
+Neural Net,82.92139001349528,cosine,featureFos,pca
+AdaBoost,79.76349527665317,cosine,featureFos,pca
+Naive Bayes,83.06612685560053,cosine,featureFos,pca
+Nearest Neighbors,88.85222672064778,cosine,featureGlcm,pca
+SVM Linear,90.35560053981106,cosine,featureGlcm,pca
+SVM Polinomial grau 3,88.53643724696356,cosine,featureGlcm,pca
+Decision Tree (gini),82.26349527665316,cosine,featureGlcm,pca
+Random Forest,89.51349527665316,cosine,featureGlcm,pca
+Neural Net,90.61875843454791,cosine,featureGlcm,pca
+AdaBoost,85.79993252361673,cosine,featureGlcm,pca
+Naive Bayes,88.04655870445345,cosine,featureGlcm,pca
+Nearest Neighbors,70.84952766531714,cosine,featureLpq,pca
+SVM Linear,73.78340080971661,cosine,featureLpq,pca
+SVM Polinomial grau 3,72.99392712550608,cosine,featureLpq,pca
+Decision Tree (gini),65.15182186234817,cosine,featureLpq,pca
+Random Forest,71.78036437246963,cosine,featureLpq,pca
+Neural Net,73.17813765182186,cosine,featureLpq,pca
+AdaBoost,71.8100539811066,cosine,featureLpq,pca
+Naive Bayes,74.12550607287449,cosine,featureLpq,pca
+Nearest Neighbors,71.2672064777328,manhattan,featureFos,pca
+SVM Linear,63.79959514170041,manhattan,featureFos,pca
+SVM Polinomial grau 3,58.569163292847506,manhattan,featureFos,pca
+Decision Tree (gini),65.57321187584346,manhattan,featureFos,pca
+Random Forest,75.49730094466935,manhattan,featureFos,pca
+Neural Net,64.5495951417004,manhattan,featureFos,pca
+AdaBoost,72.93792172739542,manhattan,featureFos,pca
+Naive Bayes,63.286437246963565,manhattan,featureFos,pca
+Nearest Neighbors,81.74392712550608,manhattan,featureGlcm,pca
+SVM Linear,86.75371120107962,manhattan,featureGlcm,pca
+SVM Polinomial grau 3,82.48380566801619,manhattan,featureGlcm,pca
+Decision Tree (gini),76.31950067476383,manhattan,featureGlcm,pca
+Random Forest,84.68792172739542,manhattan,featureGlcm,pca
+Neural Net,85.06950067476383,manhattan,featureGlcm,pca
+AdaBoost,84.81275303643724,manhattan,featureGlcm,pca
+Naive Bayes,86.06950067476384,manhattan,featureGlcm,pca
+Nearest Neighbors,73.83603238866397,manhattan,featureLpq,pca
+SVM Linear,68.00033738191632,manhattan,featureLpq,pca
+SVM Polinomial grau 3,65.88191632928473,manhattan,featureLpq,pca
+Decision Tree (gini),68.90182186234817,manhattan,featureLpq,pca
+Random Forest,73.63529014844804,manhattan,featureLpq,pca
+Neural Net,68.47402159244265,manhattan,featureLpq,pca
+AdaBoost,72.06612685560053,manhattan,featureLpq,pca
+Naive Bayes,67.86538461538463,manhattan,featureLpq,pca
+Nearest Neighbors,85.1450742240216,euclidean,featureFos,mds
+SVM Linear,73.22064777327935,euclidean,featureFos,mds
+SVM Polinomial grau 3,81.82928475033737,euclidean,featureFos,mds
+Decision Tree (gini),79.98076923076923,euclidean,featureFos,mds
+Random Forest,85.15823211875843,euclidean,featureFos,mds
+Neural Net,75.95748987854252,euclidean,featureFos,mds
+AdaBoost,81.67476383265857,euclidean,featureFos,mds
+Naive Bayes,71.94770580296897,euclidean,featureFos,mds
+Nearest Neighbors,88.1187584345479,euclidean,featureGlcm,mds
+SVM Linear,88.11538461538461,euclidean,featureGlcm,mds
+SVM Polinomial grau 3,88.8653846153846,euclidean,featureGlcm,mds
+Decision Tree (gini),83.59244264507423,euclidean,featureGlcm,mds
+Random Forest,88.47064777327935,euclidean,featureGlcm,mds
+Neural Net,87.74696356275304,euclidean,featureGlcm,mds
+AdaBoost,87.07591093117408,euclidean,featureGlcm,mds
+Naive Bayes,89.26012145748989,euclidean,featureGlcm,mds
+Nearest Neighbors,79.2108636977058,euclidean,featureLpq,mds
+SVM Linear,70.47064777327935,euclidean,featureLpq,mds
+SVM Polinomial grau 3,77.6221322537112,euclidean,featureLpq,mds
+Decision Tree (gini),72.77699055330635,euclidean,featureLpq,mds
+Random Forest,75.8292847503374,euclidean,featureLpq,mds
+Neural Net,69.95748987854252,euclidean,featureLpq,mds
+AdaBoost,74.67813765182186,euclidean,featureLpq,mds
+Naive Bayes,72.56275303643724,euclidean,featureLpq,mds
+Nearest Neighbors,81.57928475033737,cosine,featureFos,mds
+SVM Linear,84.0529689608637,cosine,featureFos,mds
+SVM Polinomial grau 3,82.4608636977058,cosine,featureFos,mds
+Decision Tree (gini),79.09581646423752,cosine,featureFos,mds
+Random Forest,83.92476383265857,cosine,featureFos,mds
+Neural Net,82.67139001349527,cosine,featureFos,mds
+AdaBoost,83.2834008097166,cosine,featureFos,mds
+Naive Bayes,83.8029689608637,cosine,featureFos,mds
+Nearest Neighbors,88.20748987854252,cosine,featureGlcm,mds
+SVM Linear,90.73717948717949,cosine,featureGlcm,mds
+SVM Polinomial grau 3,82.65485829959512,cosine,featureGlcm,mds
+Decision Tree (gini),82.88191632928475,cosine,featureGlcm,mds
+Random Forest,90.52665317139001,cosine,featureGlcm,mds
+Neural Net,90.11875843454791,cosine,featureGlcm,mds
+AdaBoost,87.67813765182186,cosine,featureGlcm,mds
+Naive Bayes,89.3097165991903,cosine,featureGlcm,mds
+Nearest Neighbors,72.85256410256412,cosine,featureLpq,mds
+SVM Linear,72.72435897435898,cosine,featureLpq,mds
+SVM Polinomial grau 3,73.53711201079622,cosine,featureLpq,mds
+Decision Tree (gini),67.75404858299595,cosine,featureLpq,mds
+Random Forest,74.08265856950067,cosine,featureLpq,mds
+Neural Net,72.0367746288799,cosine,featureLpq,mds
+AdaBoost,70.74730094466936,cosine,featureLpq,mds
+Naive Bayes,71.84615384615385,cosine,featureLpq,mds
+Nearest Neighbors,84.54318488529016,manhattan,featureFos,mds
+SVM Linear,78.31275303643726,manhattan,featureFos,mds
+SVM Polinomial grau 3,84.0529689608637,manhattan,featureFos,mds
+Decision Tree (gini),77.96423751686909,manhattan,featureFos,mds
+Random Forest,84.60560053981106,manhattan,featureFos,mds
+Neural Net,76.57591093117408,manhattan,featureFos,mds
+AdaBoost,79.0529689608637,manhattan,featureFos,mds
+Naive Bayes,71.93454790823213,manhattan,featureFos,mds
+Nearest Neighbors,87.06950067476382,manhattan,featureGlcm,mds
+SVM Linear,89.07928475033738,manhattan,featureGlcm,mds
+SVM Polinomial grau 3,88.1417004048583,manhattan,featureGlcm,mds
+Decision Tree (gini),79.85897435897436,manhattan,featureGlcm,mds
+Random Forest,88.48380566801619,manhattan,featureGlcm,mds
+Neural Net,88.1417004048583,manhattan,featureGlcm,mds
+AdaBoost,86.46086369770579,manhattan,featureGlcm,mds
+Naive Bayes,87.70107962213226,manhattan,featureGlcm,mds
+Nearest Neighbors,77.71761133603239,manhattan,featureLpq,mds
+SVM Linear,67.7338056680162,manhattan,featureLpq,mds
+SVM Polinomial grau 3,73.49055330634278,manhattan,featureLpq,mds
+Decision Tree (gini),70.90215924426452,manhattan,featureLpq,mds
+Random Forest,79.09581646423752,manhattan,featureLpq,mds
+Neural Net,68.10222672064778,manhattan,featureLpq,mds
+AdaBoost,77.95107962213226,manhattan,featureLpq,mds
+Naive Bayes,74.33906882591093,manhattan,featureLpq,mds
